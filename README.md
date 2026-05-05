@@ -1,5 +1,5 @@
 # Flappy Bird Clone-LibGDX
-This is a simple Flappy Bird-style game built using **LibGDX**. It was developed as s learning project to explore game loops, physics, and collision handling in 2D. 
+This is a simple Flappy Bird-style game built using **LibGDX**. It was developed as a learning project to explore game loops, physics, and collision handling in 2D. 
 
 The game runs on Android via the LibGDX Android ;auncher and was tested using an Android emulator in Android Studio
 
