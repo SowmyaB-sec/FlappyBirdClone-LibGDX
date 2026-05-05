@@ -1,6 +1,7 @@
 # FlappyBirdClone-LibGDX
 This is a simple Flappy Bird-style game built using **LibGDX**. It runs on Android through the LibGDX Android launcher and was tested on an Android emulator in Android Studio. The goal was to implement the core mechanics of a side‑scrolling obstacle game while keeping the codebase readable and aligned with LibGDX's structure.
 
+**
 ---
 
 ### 🎮 Overview
