@@ -3,7 +3,7 @@ This is a simple Flappy Bird-style game built using **LibGDX**. It was developed
 
 The game runs on Android via the LibGDX Android ;auncher and was tested using an Android emulator in Android Studio
 
-**
+
 ---
 
 ### 🎮 Overview
