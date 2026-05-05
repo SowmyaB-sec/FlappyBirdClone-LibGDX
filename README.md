@@ -12,6 +12,8 @@ The gameplay follows the classic Flappy Bird formula:
 - Avoid the incoming pipes
 - Try not to crash and survive as long as possible
 
+---
+
 ### Features
 - Two‑frame animated bird sprite
 - Gravity-based movement and jump physics
@@ -85,6 +87,6 @@ It may require an older LibGDX setup to run.
 --- 
 
 ### 🛠 Tech Stack
-Java
-LibGDX
-Android Studio
+- Java
+- LibGDX
+- Android Studio
